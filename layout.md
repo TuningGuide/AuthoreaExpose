@@ -12,7 +12,6 @@ div_Based_on_the_work__.html
 affective_commitment_based_on_feelings__.html
 Furthermore_they_differentiate_between_identity__.html
 div_u_Encouraging_contributions_u__.html
-div_Contribution_is_the_heart__.html
 div_Regulating_behavior_br_div__.html
 div_Online_communities_can_have__.html
 div_nbsp_nbsp_nbsp_limiting__.html
